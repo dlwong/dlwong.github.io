@@ -2885,22 +2885,27 @@ input, select, textarea {
 
 			.statistics li.style1 {
 				background-color: #efa8b0;
+				flex-grow: 3;
 			}
 
 			.statistics li.style2 {
 				background-color: #c79cc8;
+				flex-grow: 7;
 			}
 
 			.statistics li.style3 {
 				background-color: #a89cc8;
+				flex-grow: 2
 			}
 
 			.statistics li.style4 {
 				background-color: #9bb2e1;
+				flex-grow: 3;
 			}
 
 			.statistics li.style5 {
 				background-color: #8cc9f0;
+				flex-grow: 3;
 			}
 
 			.statistics li strong, .statistics li b {
