@@ -2504,9 +2504,14 @@ input, select, textarea {
 		padding-left: 0;
 	}
 
+	ul.actions li a:hover{
+		color: red;
+	}
+
 		ul.actions li {
 			padding: 0 0 0 1em;
 			vertical-align: middle;
+			color:red;
 		}
 
 		ul.actions.special {
